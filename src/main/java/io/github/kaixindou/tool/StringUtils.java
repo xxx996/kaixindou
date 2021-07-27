@@ -1,3 +1,5 @@
+package io.github.kaixindou.tool;
+
 /**
  * @BelongsProject: tool
  * @BelongsPackage: PACKAGE_NAME
